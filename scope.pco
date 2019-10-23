@@ -1,6 +1,6 @@
 XST   0   2
 UJP   0  30
-XST  -1   1
+XST   0   1
 LDC   0   0
 STR   1   4
 LOD   1   4
@@ -17,7 +17,7 @@ AOP   0   0
 STR   1   4
 UJP   0   5
 RET   0   0
-XST  -1   0
+XST   0   0
 RLN   0   0
 STR   0   0
 LDC   0   1
