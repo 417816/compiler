@@ -1,0 +1,17 @@
+        var x, pow;
+        
+        fun void powself(x) {
+          var i;
+          i = 0;
+          while (i < x) {
+            pow = pow*x;
+            i = i+1;
+          }
+        }
+        
+        fun void main() {
+          x = input();
+          pow = 1;
+          powself(x);
+          output(pow);
+        }
