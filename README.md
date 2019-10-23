@@ -41,3 +41,7 @@
 make  
 ./compile 原始プログラム > 目的コード  
 ./run 目的コード
+### example
+make  
+./compile scope.cpr > scope.pco  
+./run scope.pco
